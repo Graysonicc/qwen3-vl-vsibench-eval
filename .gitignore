@@ -1,0 +1,4 @@
+VSI-Bench/*
+__pycache__/*
+results/*
+.git/*
